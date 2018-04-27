@@ -3,7 +3,7 @@
 	Software testing is a process to evaluate the functionality of a software application with an intent.To find whether 
 	
 	a) The developed software met the specified requirements or not 
-	b) To identify the defects to ensure that the product is defect free in order to 	   	   produce the quality product.
+	b) To identify the defects to ensure that the product is defect free in order to produce the quality product.
  
 
 Software Testing Types? 
