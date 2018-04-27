@@ -1,22 +1,22 @@
-What is Software Testing?
+﻿What is Software Testing?
 
-1.	Software testing is a process to evaluate the functionality of a software application with an intent.
-2.	To find whether 
-		1)	The developed software met the specified requirements or not 
-		2)	To identify the defects to ensure that the product is defect free in order to produce the quality product.
+	Software testing is a process to evaluate the functionality of a software application with an intent.To find whether 
+	
+	a) The developed software met the specified requirements or not 
+	b) To identify the defects to ensure that the product is defect free in order to 	   	   produce the quality product.
  
 
 Software Testing Types? 
 
-•	Manual Testing: 
-		o	Manual testing is the process of testing the software manually to find the defects. 
-		o	Tester should have the perspective of an end users and to ensure all the features are working as mentioned in the requirement   document. 
-		o	In this process, testers execute the test cases and generate the reports manually without using any automation tools.
+	a) Manual Testing: 
+		i) Manual testing is the process of testing the software manually to find 		   the defects. 
+		ii) Tester should have the perspective of an end users and to ensure all 		    	    the features are working as mentioned in the requirement   document. 
+		iii) In this process, testers execute the test cases and generate the 		     reports manually without using any automation tools.
 
-•	Automation Testing: 
-		o	Automation testing is the process of testing the software using an automation tools to find the defects. 
-		o	In this process, testers execute the test scripts and generate the test results automatically by using automation tools. 
-		o	Some of the famous automation testing tools for functional testing are QTP/UFT and Selenium.
+	b) Automation Testing: 
+		i) Automation testing is the process of testing the software using an 	           automation tools to find the defects. 
+		ii) In this process, testers execute the test scripts and generate the 	            test results automatically by using automation tools. 
+		iii) Some of the famous automation testing tools for functional testing 	             are QTP/UFT and Selenium.
 
 Reference Link: https://www.softwaretestingmaterial.com/software-testing/
 
